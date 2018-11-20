@@ -1,3 +1,10 @@
-The principal idea is figurate out what would have happened if certain events wouldn't have take place.
+# Hi there!!
+:hand: :hand:
 
-As it has been commonly done with, for example, "what would have happened if the nazis won the war?", I would try to do the same using datasets of the country and predict a future without a civil war or a natural disaster.
+Trying to merge Data Science, mathematics, programming with a not such numeric world as it is Sociology, how countries developed or how natural disaster or a war may affect this countries, the idea is to try an approach of Machine Learning to those problems.
+Here in GitHub or Kaggle we are used to Artificial Intelligence or Deep Learning but not that much to more humanistics approaches.
+
+This is "my very humble personal try" to bring this worlds togethers and probe that this is also a way to use Data Science and all its possibilities.
+
+
+## Work is div
