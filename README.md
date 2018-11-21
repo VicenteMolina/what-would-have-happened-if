@@ -1,7 +1,7 @@
 # Hi there!!
 :hand: :hand:
 
-Trying to merge Data Science, mathematics, programming with Sociology, which is not a numerico focused area a not such numeric world as it is Sociology and trying to link machine learning to issues such as country development, natural disasters. 
+Trying to merge Data Science, mathematics and programming with Sociology, which is not a numeric focused area a not such numeric world as it is Sociology and trying to link machine learning to issues such as country development, natural disasters. 
 Here at GitHub or Kaggle we are used to Artificial Intelligence or Deep Learning but not that much to more humanistics approaches.
 
 Through all the known history of our world, many events have changed the long thread of history. But, as history is the past, we still have not conclusively found a way to timetravel back in time, people like to play about what would have happened if...that asteroid never crashed to the earth when the dinosaurs were around...or if Figo had never moved from Barcelona to Real Madrid.
@@ -11,11 +11,11 @@ Well, let's play sci-fi with our new friend Data Science and its applications. B
 This is "my very humble personal attempt" to bring this world together and prove that this is also a way to use Data Science and all its possibilities.
 
 
-## Work is divide in two. 
-- First a look at the data and some charts to get into terms.
-- Linear regression models to get to know how the country could have evolved.
+## Work is divided in two. 
+- First a look at the data and some charts to get into terms. Data_treatment
+- Linear regression models to get to know how the country could have evolved. LinearRegressions
 
-It is necessary to say that data (downloaded from https://data.worldbank.org/) was massive and we tried to reduce the indicators from nearly 3,000 to 30. This work does not appears in the notebooks, that use data already manipulated.
+It is necessary to say that data (downloaded from https://data.worldbank.org/) was massive and we tried to reduce the indicators from nearly 3,000 to 30. This work does not appears in the notebooks, that is data already manipulated.
 
 
 
