@@ -1,17 +1,21 @@
 # Hi there!!
 :hand: :hand:
 
-Trying to merge Data Science, mathematics, programming with a not such numeric world as it is Sociology, how countries developed or how natural disaster or a war may affect this countries, the idea is to try an approach of Machine Learning to those problems.
-Here in GitHub or Kaggle we are used to Artificial Intelligence or Deep Learning but not that much to more humanistics approaches.
+Trying to merge Data Science, mathematics, programming with Sociology, which is not a numerico focused area a not such numeric world as it is Sociology and trying to link machine learning to issues such as country development, natural disasters. 
+Here at GitHub or Kaggle we are used to Artificial Intelligence or Deep Learning but not that much to more humanistics approaches.
 
-Through all the known history of our world, many events have changed the long thread of history. But, as history is past events, and not yet has been revealed a way to travel to the past, people like to dream and play about what would have happened if...that asteroid never crashed to the earth when the dinosaurs...or if Figo had never moved from Barcelona to Real Madrid.
+Through all the known history of our world, many events have changed the long thread of history. But, as history is the past, we still have not conclusively found a way to timetravel back in time, people like to play about what would have happened if...that asteroid never crashed to the earth when the dinosaurs were around...or if Figo had never moved from Barcelona to Real Madrid.
 
 Well, let's play sci-fi with our new friend Data Science and its applications. But let's also move to a more serious issue that is very close to our present life, and that involves millions of people: the Civil War in Syria. 
 
-This is "my very humble personal try" to bring this worlds togethers and probe that this is also a way to use Data Science and all its possibilities.
+This is "my very humble personal attempt" to bring this world together and prove that this is also a way to use Data Science and all its possibilities.
 
 
-## Work is divide in two
+## Work is divide in two. 
+- First a look at the data and some charts to get into terms.
+- Linear regression models to get to know how the country could have evolved.
+
+It is necessary to say that data (downloaded from https://data.worldbank.org/) was massive and we tried to reduce the indicators from nearly 3,000 to 30. This work does not appears in the notebooks, that use data already manipulated.
 
 
 
@@ -36,4 +40,8 @@ Total number of people in the armed forces Their number shows the threat situati
 - [x] **Total population Population pyramid**: If the youngest age groups (0-14, up to 45) are high and those over 65 are lower, demographics are a very positive economic factor |14 YO Range Population |15-64 YO Range Population |65 YO or more Range Population 
 - [x] **Rail transport of passengers (millions ofnpassengers per Km)**: It means mobility of goods and passengers in the interior. More Km or more passengers means more quality of life.
 - [x] **Urban/Rural population**: Evolution all over the world is towards the cities. The high rate of rurality is an indicator of low development.
+
+
+
+Thanks for reading!!!
 
